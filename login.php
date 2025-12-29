@@ -2,7 +2,7 @@
 // ==================
 // KẾT NỐI DATABASE
 // ==================
-$servername = "database-server-lab7.cocgl5wbv5ga.ap-southeast-1.rds.amazonaws.com";
+$servername = "database-lap7.c0ovf0ihonaq.us-east-1.rds.amazonaws.com";
 $dbusername = "admin";
 $dbpassword = "12345678";
 $dbname     = "myDB";
